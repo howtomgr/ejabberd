@@ -1,0 +1,66 @@
+{
+  "category": "xmpp-servers",
+  "created_date": "2025-09-15T22:48:57.496318",
+  "default_ports": [
+    80,
+    443,
+    2048,
+    5222
+  ],
+  "dependencies": [
+    "erlang",
+    "openssl"
+  ],
+  "description": "ejabberd is a free and open-source XMPP Server. Robust, scalable and extensible XMPP server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/xmpp-servers/ejabberd",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/xmpp-servers/ejabberd",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.496343",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "ejabberd",
+  "repository_url": "https://github.com/howtomgr/ejabberd",
+  "spec_version": "2.0",
+  "subcategory": "xmpp-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "xmpp-servers",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "ejabberd Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/xmpp-servers/ejabberd"
+}
